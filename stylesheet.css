@@ -1,0 +1,33 @@
+h1 {
+  color: #02ccba;
+  font-size : 30px;
+  font-family: Yumincho;
+}
+
+ul{
+  padding: 8px 24px;
+  display: inline-block;
+
+}
+
+body{
+  background-color: #FFFFCC;
+}
+
+h2{
+  color:rgb(80, 144, 228)
+}
+
+
+.title2 p{
+  margin-top: 1px;
+}
+
+.last h3{
+  margin-top: 60px;
+  color:rgb(238, 143, 18);
+}
+
+.last h2{
+  color: rgb(20, 107, 238);
+}
